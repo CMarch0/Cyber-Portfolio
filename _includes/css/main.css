@@ -24,7 +24,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.link1 }};
+    color: #{{ site.color.extra-elements }};
 }
 
 h1,
@@ -70,7 +70,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #{{ site.color.secondary-dark }};
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.    }};
 }
 
 hr.star-primary {
@@ -489,7 +489,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.extra-elements }} !important;
 }
 
 /* Fix modal mouse wheel issues */

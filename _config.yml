@@ -31,6 +31,7 @@ color:
   text: C1C1C1
   secondary-dark: 0A0A0A #A2122F
   link1: 200473A
+  extra-elements: 2D7B82
 # Footer settings
 footer:
   copyright: Ceijae James Marchese
