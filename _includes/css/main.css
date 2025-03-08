@@ -10,7 +10,7 @@ body {
 
 p {
     font-size: 20px;
-    color: #{{ site.color.secondary-dark }};
+    color: #{{ site.color.text }};
 }
 
 p.small {
