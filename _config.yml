@@ -1,6 +1,5 @@
 # Site settings
-    remote_theme: pages-themes/merlot@v0.2.0
-    plugins_dir: jekyll-remote-theme # add this line to the plugins list if you already have one
+
 title: Ceijae James Marchese
 email: ceijaemarchese@gmail.com
 url: CMarch0
@@ -69,3 +68,8 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+    yml
+    remote_theme: pages-themes/merlot@v0.2.0
+    plugins:
+    - jekyll-remote-theme # add this line to the plugins list if you already have one
