@@ -1,4 +1,5 @@
 # Site settings
+
 title: Ceijae James Marchese
 email: ceijaemarchese@gmail.com
 url: CMarch0
@@ -25,9 +26,9 @@ disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 2D2D34 #80B3FF
-  primary-rgb: "45,45,52" #"128,179,255"
-  secondary: E4DCE4 #FD6E8A
+  primary: 0D181C #80B3FF
+  primary-rgb: "13,24,28" #"128,179,255"
+  secondary: 05100B #FD6E8A
   secondary-dark: 29662A #A2122F
 
 # Footer settings
@@ -67,3 +68,7 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
