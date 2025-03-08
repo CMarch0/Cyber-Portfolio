@@ -38,6 +38,9 @@ h6 {
     font-weight: 700;
 }
 
+h1 {
+    color: #{{ site.color.secondary-dark}}
+}
 h2,h3 {
     color: #{{ site.color.text }};
 }
