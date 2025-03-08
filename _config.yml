@@ -29,8 +29,8 @@ color:
   primary-rgb: "2,27,39" #"128,179,255"
   secondary: 01151E #FD6E8A
   text: C1C1C1
-  secondary-dark: 09000C #A2122F
-  href=secondary-dark:
+  secondary-dark: 000000 #A2122F
+  link: 210808
 # Footer settings
 footer:
   copyright: Ceijae James Marchese

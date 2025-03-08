@@ -15,7 +15,7 @@ p {
 
 p.small {
     font-size: 16px;
-    color: #{{ site.color.secondary-dark }};
+    color: #{{ site.color.text }};
 }
 
 a,
@@ -24,7 +24,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.link }};
 }
 
 h1,
@@ -39,7 +39,7 @@ h6 {
 }
 
 h2,h3 {
-    color: #{{ site.color.text }};
+    color: #{{ site.color.secondary-dark }};
 }
 
 hr.star-light,
