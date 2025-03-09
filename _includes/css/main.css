@@ -38,9 +38,6 @@ h6 {
     font-weight: 700;
 }
 
-h1 {
-    color: #{{ site.color.primary}}
-}
 h2,h3 {
     color: #{{ site.color.text }};
 }
@@ -72,7 +69,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: #{{ site.color.secondary-dark }};
+    color: #{{ site.color.primary }};
     background-color: #{{ site.color.    }};
 }
 
@@ -81,7 +78,7 @@ hr.star-primary {
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary-dark }};
+    color: #{{ site.color.primary }};
     background-color: #fff;
 }
 
@@ -439,7 +436,7 @@ footer .footer-below {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content h2 {
+.portfolio-modal .modal-content h1 {
     margin: 0;
     font-size: 3em;
 }
