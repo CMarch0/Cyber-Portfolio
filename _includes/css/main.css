@@ -39,7 +39,7 @@ h6 {
 }
 
 h1 {
-    color: #{{ site.color.secondary-dark}}
+    color: #{{ site.color.primary}}
 }
 h2,h3 {
     color: #{{ site.color.text }};
