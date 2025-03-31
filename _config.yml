@@ -29,7 +29,7 @@ color:
   primary-rgb: "2,27,39" #"128,179,255"
   secondary: 01151E #FD6E8A
   text: F4FDFF
-  secondary-dark: FFFFFF #A2122F
+  secondary-dark: 01151E #A2122F
   link1: 200473A
   extra-elements: 2D7B82
   footer: 0A0A0A
